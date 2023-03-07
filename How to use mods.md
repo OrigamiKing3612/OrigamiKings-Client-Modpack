@@ -1,4 +1,4 @@
-# **How to use this “Modpack”**
+# **How to use this Modpack**
 ## **Windows**
 1. Make sure you have Java installed
    1. To check if you don’t know go down to the bottom left corner search bar
@@ -21,7 +21,7 @@
 1. Make sure you have java installed
    1. To check press Command + space and type terminal then press enter
    2. Type 'java -version' 
-      1. If you you get an error then you don’t have java installed ask OrigamiKing3612 for help
+      1. If you get an error then you don’t have java installed ask OrigamiKing3612 for help
       2. If you get a version number then you have Java installed go to step 2
 2. Now that you have Java installed go to [The Fabric Website](https://fabricmc.net/use/installer/) (or use the one in this folder) and download the universal jar
 3. When it’s done open it
