@@ -1,4 +1,4 @@
-# **How to use this “Modpack”**
+# **How to use my Modpack**
 ## **Windows**
 1. Make sure you have Java installed
    1. To check if you don’t know go down to the bottom left corner search bar
